@@ -295,7 +295,7 @@
           "label": "Position for produktkort"
         },
         "sale_badge_color_scheme": {
-          "label": "Farveskema for udsalg-badges"
+          "label": "Farveskema for salgsbadges"
         },
         "sold_out_badge_color_scheme": {
           "label": "Farveskema for udsolgt-badges"
@@ -306,7 +306,7 @@
       "name": "Knapper"
     },
     "variant_pills": {
-      "name": "Variantetiketter"
+      "name": "Variant-piller"
     },
     "inputs": {
       "name": "Inputs"
@@ -1458,7 +1458,7 @@
                 "label": "Rullemenu"
               },
               "options__2": {
-                "label": "Etiketter"
+                "label": "Piller"
               }
             }
           }
@@ -2102,7 +2102,7 @@
                 "label": "Rullemenu"
               },
               "options__2": {
-                "label": "Etiketter"
+                "label": "Piller"
               }
             }
           }

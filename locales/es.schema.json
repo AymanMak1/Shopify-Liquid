@@ -1458,7 +1458,7 @@
                 "label": "Desplegable"
               },
               "options__2": {
-                "label": "Miniaturas"
+                "label": "Pills"
               }
             }
           }
@@ -2102,7 +2102,7 @@
                 "label": "Desplegable"
               },
               "options__2": {
-                "label": "Botones"
+                "label": "Pills"
               }
             }
           }

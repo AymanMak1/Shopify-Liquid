@@ -1457,7 +1457,7 @@
                 "label": "Açılır liste"
               },
               "options__2": {
-                "label": "Seçenekler"
+                "label": "Haplar"
               }
             }
           }
@@ -2102,7 +2102,7 @@
                 "label": "Açılır menü"
               },
               "options__2": {
-                "label": "Seçenekler"
+                "label": "Haplar"
               }
             }
           }

@@ -298,7 +298,7 @@
           "label": "Esquema de cor do selo de venda"
         },
         "sold_out_badge_color_scheme": {
-          "label": "Esquema de cor do selo de esgotado"
+          "label": "Cor de esquema de selo esgotado"
         }
       }
     },
@@ -306,7 +306,7 @@
       "name": "Botões"
     },
     "variant_pills": {
-      "name": "Variantes com forma de comprimidos"
+      "name": "Variante de comprimidos"
     },
     "inputs": {
       "name": "Entradas"
@@ -2102,7 +2102,7 @@
                 "label": "Pendente"
               },
               "options__2": {
-                "label": "Forma de comprimidos"
+                "label": "Comprimidos"
               }
             }
           }
