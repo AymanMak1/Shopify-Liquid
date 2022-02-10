@@ -1,0 +1,29 @@
+Code Inspire : https://www.youtube.com/c/CodeInspire/playlists
+https://www.youtube.com/watch?v=0274iR1XENE&list=PLB4AdipoHpxbTycAd8VriLJoROLb3hYmh
+
+Crash Course : https://www.youtube.com/watch?v=JqtvmzHnO9I
+
+Long Crash Course: https://www.youtube.com/watch?v=ejXm7CMGH6Y&t=12387s
+
+
+
+https://www.youtube.com/c/howtoshopify/search?query=Shopify
+
+Coding with Jan : https://www.youtube.com/channel/UCwqNzzV8FmCyGWLfJW8MMSg
+
+
+
+
+1- Github/Github Branches
+2- Shopify Dashboard
+3- Installing Chocolatey
+4- Installing Shopify Theme kit (Slate)
+5- Liquid Objects/Tags/Filters etc
+6- Set the shopify API in the apps section, set the privileges (get the api key), theme id is in the url of the shopify theme builder/customizer
+https://shopify.github.io/
+https://shopify.dev/themes/tools/theme-kit
+(not from the private app but using the theme kit access app)
+
+theme get --list --password=shptka_2ea7c94d11d0e28c86f17aaf8e0abcb6 --store=devyshop2k22.myshopify.com
+
+theme get --password=shptka_2ea7c94d11d0e28c86f17aaf8e0abcb6 --store=devyshop2k22.myshopify.com --themeid=123496431673
