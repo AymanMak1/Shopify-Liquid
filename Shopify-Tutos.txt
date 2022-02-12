@@ -27,3 +27,10 @@ https://shopify.dev/themes/tools/theme-kit
 theme get --list --password=shptka_2ea7c94d11d0e28c86f17aaf8e0abcb6 --store=devyshop2k22.myshopify.com
 
 theme get --password=shptka_2ea7c94d11d0e28c86f17aaf8e0abcb6 --store=devyshop2k22.myshopify.com --themeid=123496431673
+
+7- theme watch
+8- Shopify Liquid Cheat Sheet
+https://www.shopify.com/partners/shopify-cheat-sheet
+9- Shopify Project Directory Structure
+10- Shopify Schema (Configuring theme setting - section setting (Custom Sections))
+
