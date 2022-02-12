@@ -33,4 +33,5 @@ theme get --password=shptka_2ea7c94d11d0e28c86f17aaf8e0abcb6 --store=devyshop2k2
 https://www.shopify.com/partners/shopify-cheat-sheet
 9- Shopify Project Directory Structure
 10- Shopify Schema (Configuring theme setting - section setting (Custom Sections))
+11- General Schema Settings
 
