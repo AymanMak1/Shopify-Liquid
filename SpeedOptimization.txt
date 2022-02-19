@@ -15,7 +15,7 @@ Test Speed Websites :
 		Gzip is the most popular and effective compression method currently available
 		Add Expires headers
 --------------------------------------------------------------------------------------------
-Steps:
+Speed Steps:
 	Be weary of ‘speed optimisation apps’.
 	Ditch the APPS/ Remove third parties apps ( Don’t forget to remove code - Mainly at the Header & Footer )
 	Assess each app.
@@ -31,9 +31,8 @@ Steps:
 
 
 https://gofishdigital.com/blog/shopify-speed-optimizations/
+
 https://www.youtube.com/watch?v=NB1Xz6Dzcmc
 
 
 --------------------------------------------------------------
-https://www.youtube.com/watch?v=sObU5W7qbTs
-https://www.youtube.com/watch?v=7epUGFEdrP8
