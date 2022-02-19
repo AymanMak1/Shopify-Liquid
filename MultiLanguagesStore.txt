@@ -1,6 +1,4 @@
---------------------------------------
-Third Party Apps:
-	Weglot
-	Translate My Story
-	Langify
-	Translate Lab - AI Translate
+Translation Lab - AI Translate
+Transcy
+weglot
+Langify
