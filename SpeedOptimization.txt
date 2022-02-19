@@ -1,0 +1,39 @@
+---------------------------------------------------
+Inspiration :
+https://www.shopify.com/blog/shopify-stores
+-----------------------------------------------------
++ The store should not be protected by a password
+Online Store -> Reports Button
+Analytics -> Reports
+
+Speed is mainly related to the 3 pages : Home, Product, Collection
+------------------------------------------------------------------
+Test Speed Websites :
+	https://pagespeed.web.dev/
+	https://gtmetrix.com/
+	https://tools.pingdom.com/
+		Gzip is the most popular and effective compression method currently available
+		Add Expires headers
+--------------------------------------------------------------------------------------------
+Steps:
+	Be weary of ‘speed optimisation apps’.
+	Ditch the APPS/ Remove third parties apps ( Don’t forget to remove code - Mainly at the Header & Footer )
+	Assess each app.
+
+	Assess Waterfall
+	‘Defer Javascript’
+	Watch out for FontAwesome Icons
+	Image Compression (Resolution, Dimension)
+		https://imagecompressor.com/
+		https://tinyjpg.com
+	lazy loading (lazy sizes Library)
+		https://github.com/aFarkas/lazysizes
+
+
+https://gofishdigital.com/blog/shopify-speed-optimizations/
+https://www.youtube.com/watch?v=NB1Xz6Dzcmc
+
+
+--------------------------------------------------------------
+https://www.youtube.com/watch?v=sObU5W7qbTs
+https://www.youtube.com/watch?v=7epUGFEdrP8
