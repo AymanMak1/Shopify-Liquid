@@ -1,3 +1,5 @@
+https://shopify.dev/themes/os20
+
 Overview:
 	https://www.youtube.com/watch?v=bs-9QqHDoY4
 
@@ -8,3 +10,29 @@ Migration:
 	https://www.youtube.com/c/shopifydevs
 	https://www.youtube.com/watch?v=DO9JUW-6WN8
 	https://www.youtube.com/watch?v=MUY3wZsBx3k
+
+--------------------------------------------------------------------
+Be Aware of :
+	Metafields
+		https://www.youtube.com/watch?v=aEemVBqS3Yk
+	Liquid -> JSON
+	Shopify CLI
+	Shopify Github
+
+Instead of writing liquid code in the template files by using sections everywhere, everything will be written 
+in the section file using liquid code and template files will be written using json in order to include the
+different sections
+Steps Needed :
+	1. Remove {% section %} tags (YOU CAN'T HAVE SECTIONS WITHING SECTION)
+	2. Move surrounding code into their own section (<DIV> {% section '' %} </DIV> eg: moving the div to the sections/section file)
+	3. Replace the liquid template with a JSON Template
+	4. Add in references to the section into your new JSON template
+
+------------------------------------------------------------------------------------------
+Goal is to be able to use sections Everywhere in the customizer which gonna help 
+the customer and the store owner to change things around
+------------------------------------------------------------------------------------------
+
+
+
+
