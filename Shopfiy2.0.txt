@@ -34,5 +34,16 @@ the customer and the store owner to change things around
 ------------------------------------------------------------------------------------------
 
 
+THEME DEVELOPMENT LOCALLY:
+instead of using theme kit, we should use Shopify CLI that enable us to develop online
+shopify store 2.0 (JSON templates)
+
+1. Install Ruby + Devkit
+2. install rubygem
+3. install shopify cli with gem command
+4. shopify login --store=devyshop2k22.myshopify.com
+5. shopify theme pull --themeid=123744190521
+
+
 
 
